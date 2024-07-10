@@ -55,7 +55,7 @@ function App(): JSX.Element {
             </div>
             <div>
               <textarea
-                className="w-full border-0 bg-transparent text-light-white"
+                className="w-full h-40 border-0 bg-transparent text-light-white"
                 value={link}
                 readOnly
               ></textarea>
